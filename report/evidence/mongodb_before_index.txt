@@ -1,0 +1,8 @@
+MongoDB 8.0 - JOIN Execution Statistics (Before Index)
+
+totalDocsExamined: 10000000
+totalKeysExamined: 0
+collectionScans: 10000
+indexesUsed: []
+nReturned: 10000
+executionTimeMillisEstimate: 4660
